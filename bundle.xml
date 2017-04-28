@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adapt_framework>
+  <bundle>
+    <label>Adapt Test</label>
+    <name>adapt_test</name>
+    <version>0.1.0</version>
+    <version_status>release</version_status>
+    <availability>public</availability>
+    <type>extension</type>
+    <namespace>\adapt\test</namespace>
+    <description>Foundation for adapt specific unit tests.</description>
+    <copyright>2017 Matt Bruton</copyright>
+    <license>MIT</license>
+    <vendor>
+        <name>Adapt Framework</name>
+        <website>https://www.adaptframework.com</website>
+    </vendor>
+    <authors>
+        <author>
+            <name>Matt Bruton</name>
+            <email>matt.bruton@gmail.com</email>
+        </author>
+    </authors>
+  </bundle>
+</adapt_framework>
